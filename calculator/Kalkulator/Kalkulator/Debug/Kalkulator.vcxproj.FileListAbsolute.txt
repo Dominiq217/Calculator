@@ -1,0 +1,12 @@
+C:\Users\domin\Desktop\gry\05\calosc\Kalkulator\Kalkulator\Debug\Kalkulator.vcxproj.AssemblyReference.cache
+C:\Users\domin\Desktop\gry\05\calosc\Kalkulator\Kalkulator\Debug\Kalkulator.Plansza.resources
+C:\Users\domin\Desktop\gry\05\calosc\Kalkulator\Kalkulator\Debug\Kalkulator.Pomoc.resources
+C:\Users\domin\Desktop\gry\05\calosc\Kalkulator\Kalkulator\Debug\Kalkulator.vcxproj.GenerateResource.cache
+C:\Users\domin\Desktop\gry\Kalkulator\Kalkulator\Debug\Kalkulator.vcxproj.AssemblyReference.cache
+C:\Users\domin\Desktop\gry\Kalkulator\Kalkulator\Debug\Kalkulator.Plansza.resources
+C:\Users\domin\Desktop\gry\Kalkulator\Kalkulator\Debug\Kalkulator.Pomoc.resources
+C:\Users\domin\Desktop\gry\Kalkulator\Kalkulator\Debug\Kalkulator.vcxproj.GenerateResource.cache
+C:\Users\domin\Desktop\calculator\Kalkulator\Kalkulator\Debug\Kalkulator.vcxproj.AssemblyReference.cache
+C:\Users\domin\Desktop\calculator\Kalkulator\Kalkulator\Debug\Kalkulator.Plansza.resources
+C:\Users\domin\Desktop\calculator\Kalkulator\Kalkulator\Debug\Kalkulator.Pomoc.resources
+C:\Users\domin\Desktop\calculator\Kalkulator\Kalkulator\Debug\Kalkulator.vcxproj.GenerateResource.cache
