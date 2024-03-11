@@ -36,23 +36,21 @@ Welcome to the Simple C++ GUI Calculator! This is a basic calculator application
    - Have fun using the Simple C++ GUI Calculator to perform basic arithmetic operations and calculate net and gross prices!
 
 ## Screenshots
-```
+*********************
 ![zwykły kalkulator](https://github.com/Dominiq217/Calculator/assets/97559453/7212569c-08e0-40bd-9291-4713c1237d93)
-
-```
-
-```
+*********************
+*********************
 ![kalkulator finansowy](https://github.com/Dominiq217/Calculator/assets/97559453/c3b68c0e-68c6-4659-bbbc-84a20a032b1d)
+*********************
 
-```
-```
+*********************
 ![calculator game](https://github.com/Dominiq217/Calculator/assets/97559453/20119c8b-3e43-43fe-af55-cf2307bea446)
+*********************
 
-```
-```
+*********************
 ![kalkulator cały](https://github.com/Dominiq217/Calculator/assets/97559453/d040241b-56b4-4364-89c7-7ad43ad5a6d1)
+*********************
 
-```
 
 
 
